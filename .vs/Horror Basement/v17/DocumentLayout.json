@@ -1,0 +1,678 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\sequences\\intro\\introsequencing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sequences\\intro\\introsequencing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|c:\\users\\acer\\documents\\game project\\horror basement\\assets\\scripts\\sequences\\outro\\outrosequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sequences\\outro\\outrosequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\flameanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flameanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\globalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\lockeddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\lockeddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\zombiedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\globalinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\deadmenuctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deadmenuctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\dooropen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\cupdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\cupdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\menus\\mainmenufunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\mainmenufunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\pickuplight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickuplight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\pickuppistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickuppistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\numberlockdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\numberlockdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\sequences\\opening1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sequences\\opening1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\halfeyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\halfeyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\keypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\keypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\eyeplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\eyeplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\shalfeyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\shalfeyepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\keypadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\keypadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\exitdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exitdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\keypadkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\keypadkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\globalammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\sequences\\firsttrigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sequences\\firsttrigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\ammopickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ammopickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\menus\\splashtomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\splashtomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\jumpscare1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\jumpscare1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\pumpkinbreak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\pumpkinbreak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\cluespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\cluespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firepistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\environment\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\sequences\\jumptrigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sequences\\jumptrigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\stalkerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stalkerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\activatestalker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAB4C9-EF02-E0CD-57C5-1D16D4587226}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\activatestalker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\savingmech\\auto01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savingmech\\auto01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\assets\\scripts\\savingmech\\auto02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\savingmech\\auto02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\SaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:41:48.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:41:06.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenuFunction.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Menus\\MainMenuFunction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\MainMenuFunction.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Menus\\MainMenuFunction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\MainMenuFunction.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:06:51.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeadMenuCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\DeadMenuCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeadMenuCtrl.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\DeadMenuCtrl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeadMenuCtrl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:39:29.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutroSequence.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\Outro\\OutroSequence.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sequences\\Outro\\OutroSequence.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\Outro\\OutroSequence.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sequences\\Outro\\OutroSequence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:24:07.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PickUpLight.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\PickUpLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUpLight.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\PickUpLight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUpLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:22:08.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PickUpPistol.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\PickUpPistol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUpPistol.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\PickUpPistol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUpPistol.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:11:57.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Flashlight.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\Flashlight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Flashlight.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\Flashlight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Flashlight.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:59:32.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FirePistol.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\FirePistol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirePistol.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\FirePistol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirePistol.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:02:43.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClueSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\ClueSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\ClueSpawner.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\ClueSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\ClueSpawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:12:01.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NumberLockDoor.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\NumberLockDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\NumberLockDoor.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\NumberLockDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\NumberLockDoor.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:45:42.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KeypadController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\KeypadController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\KeypadController.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\KeypadController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\KeypadController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:36:27.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KeypadKey.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\KeypadKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\KeypadKey.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\KeypadKey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\KeypadKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:36:33.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAI.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAI.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:59:44.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StalkerAI.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\StalkerAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StalkerAI.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\StalkerAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StalkerAI.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:25:18.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ActivateStalker.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ActivateStalker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ActivateStalker.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ActivateStalker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ActivateStalker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:22:59.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Auto02.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\SavingMech\\Auto02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SavingMech\\Auto02.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\SavingMech\\Auto02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SavingMech\\Auto02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:09:18.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Auto01.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\SavingMech\\Auto01.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SavingMech\\Auto01.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\SavingMech\\Auto01.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SavingMech\\Auto01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:02:09.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SHalfEyePickUp.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\SHalfEyePickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\SHalfEyePickUp.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\SHalfEyePickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\SHalfEyePickUp.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:20:32.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EyePlacement.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\EyePlacement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\EyePlacement.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\EyePlacement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\EyePlacement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:55:12.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalInventory.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\GlobalInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalInventory.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\GlobalInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:25:50.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KeyPickUp.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\KeyPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\KeyPickUp.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\KeyPickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\KeyPickUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:58:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PumpkinBreak.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\PumpkinBreak.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\PumpkinBreak.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\PumpkinBreak.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\PumpkinBreak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:42:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExitDoor.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ExitDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitDoor.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ExitDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitDoor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:09:04.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HalfEyePickUp.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\HalfEyePickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\HalfEyePickUp.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\HalfEyePickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\HalfEyePickUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:38:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JumpScare1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\JumpScare1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\JumpScare1.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\JumpScare1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\JumpScare1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:56:06.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:13:24.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CupDrop.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\CupDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\CupDrop.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\CupDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\CupDrop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:33:34.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntroSequencing.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\Intro\\IntroSequencing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sequences\\Intro\\IntroSequencing.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\Intro\\IntroSequencing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sequences\\Intro\\IntroSequencing.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:34:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SplashToMenu.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Menus\\SplashToMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\SplashToMenu.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Menus\\SplashToMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\SplashToMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:28:04.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoorOpen.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\DoorOpen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpen.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\DoorOpen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorOpen.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:29:32.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerCasting.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\PlayerCasting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCasting.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\PlayerCasting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCasting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:04:15.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LockedDoor.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\LockedDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\LockedDoor.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Environment\\LockedDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\LockedDoor.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:02:14.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZombieDeath.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ZombieDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieDeath.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\ZombieDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieDeath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:53:53.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalHealth.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\GlobalHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalHealth.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\GlobalHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalHealth.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:32:09.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Opening1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\Opening1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sequences\\Opening1.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\Opening1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sequences\\Opening1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:53:56.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GlobalAmmo.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\GlobalAmmo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalAmmo.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\GlobalAmmo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalAmmo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:27:39.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FirstTrigger2.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\FirstTrigger2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sequences\\FirstTrigger2.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\FirstTrigger2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sequences\\FirstTrigger2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:07:03.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AmmoPickUp.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\AmmoPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AmmoPickUp.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\AmmoPickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AmmoPickUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:11:36.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JumpTrigger2.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\JumpTrigger2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sequences\\JumpTrigger2.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\Sequences\\JumpTrigger2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sequences\\JumpTrigger2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:38:43.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlameAnimations.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\FlameAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlameAnimations.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Basement\\Assets\\Scripts\\FlameAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlameAnimations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:27:51.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
